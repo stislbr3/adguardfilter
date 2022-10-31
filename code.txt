@@ -1,0 +1,7 @@
+!Prepared by PLN DIVSTI Sulselrabar 3
+!Daftar allow list aplikasi intranet PLN
+!
+||amor.pln.co.id^
+||pln.co.id^
+!
+!End of file
